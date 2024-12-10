@@ -1,0 +1,1 @@
+export const glogo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAP9f-WotYmDS9sHYsEojyDJOHCuMTktMh-oJd5R8qfA&s'
